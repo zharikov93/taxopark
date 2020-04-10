@@ -1,0 +1,5 @@
+.idea/
+**/*.7z
+.git/
+*.iml
+target/
